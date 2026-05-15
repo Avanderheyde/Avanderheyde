@@ -1,4 +1,6 @@
-# Alderik van der Heyde
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Alderik van der Heyde - New York, Flow Traders, public apps and agent workflows" width="100%" />
+</p>
 
 I'm a developer based in New York, working at Flow Traders.
 
@@ -28,7 +30,7 @@ A tracker for measuring and understanding the cost of vibe-coded projects.
 [**human-cost**](https://github.com/Avanderheyde/human-cost)  
 Source for Human Cost.
 
-[**backet-tracker**](https://github.com/Avanderheyde/backet-tracker)  
+[**basket-tracker**](https://github.com/Avanderheyde/basket-tracker)  
 A tracking tool for monitoring baskets, backtests, or related workflows.
 
 ### Built By My Agent
