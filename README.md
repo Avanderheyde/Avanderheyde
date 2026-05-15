@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Alderik van der Heyde" width="100%" />
-</p>
-
 ## Selected Work
+
+### Web Apps
 
 [**vibeleaderboard.ai**](https://vibeleaderboard.ai)  
 Leaderboard and tracking for vibe-coded products.
 
 [**human-cost.com**](https://human-cost.com)  
 A web app focused on making human time and cost easier to reason about.
+
+### Public Apps & Tools
 
 [**resy-skill**](https://github.com/Avanderheyde/resy-skill)  
 A skill for automating and extending Resy-related workflows.
@@ -25,5 +25,7 @@ Source for Human Cost.
 [**basket-tracker**](https://github.com/Avanderheyde/basket-tracker)  
 A tracking tool for monitoring baskets, backtests, or related workflows.
 
+### Built By My Agent
+
 [**agentboard**](https://github.com/not0xjarvis/agentboard)  
-A board for tracking agent work.
+A project built by my OpenClaw agent, [not0xjarvis](https://github.com/not0xjarvis).
