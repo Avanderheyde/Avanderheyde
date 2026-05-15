@@ -1,57 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
-  <title id="title">Alderik van der Heyde profile banner</title>
-  <desc id="desc">A clean GitHub profile banner with Alderik van der Heyde, New York, Flow Traders, public apps, and agent workflows.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Alderik van der Heyde</title>
+  <desc id="desc">A minimal GitHub profile banner showing the name Alderik van der Heyde.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111827"/>
-      <stop offset="0.44" stop-color="#19324a"/>
-      <stop offset="1" stop-color="#244e45"/>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f3ee"/>
+      <stop offset="0.58" stop-color="#e8ece8"/>
+      <stop offset="1" stop-color="#dfe8ea"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8dd7ff"/>
-      <stop offset="0.55" stop-color="#b6f0d0"/>
-      <stop offset="1" stop-color="#f4d58d"/>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#17202a"/>
+      <stop offset="1" stop-color="#2d3d45"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#020617" flood-opacity="0.32"/>
-    </filter>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity="0.055" stroke-width="1"/>
+    <pattern id="grain" width="128" height="128" patternUnits="userSpaceOnUse">
+      <path d="M0 96C22 86 38 86 62 94C86 103 102 100 128 86" fill="none" stroke="#17202a" stroke-opacity="0.035" stroke-width="1"/>
+      <path d="M0 34C31 42 54 39 77 28C99 17 114 18 128 24" fill="none" stroke="#17202a" stroke-opacity="0.028" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1280" height="420" fill="url(#bg)"/>
-  <rect width="1280" height="420" fill="url(#grid)"/>
-  <path d="M0 332C156 285 270 292 423 322C592 355 735 391 910 342C1056 301 1163 230 1280 244V420H0Z" fill="#06111f" opacity="0.36"/>
-  <path d="M930 0H1280V420H1064C997 343 965 269 966 198C967 120 931 58 930 0Z" fill="#ffffff" opacity="0.05"/>
-  <path d="M84 318H1196" stroke="url(#line)" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <rect width="1280" height="360" rx="0" fill="url(#paper)"/>
+  <rect width="1280" height="360" fill="url(#grain)"/>
+  <path d="M96 260H1184" stroke="#17202a" stroke-opacity="0.14" stroke-width="1"/>
+  <path d="M96 102H1184" stroke="#17202a" stroke-opacity="0.06" stroke-width="1"/>
 
-  <g filter="url(#shadow)">
-    <rect x="72" y="64" width="1136" height="264" rx="22" fill="#07111f" opacity="0.58"/>
-    <rect x="72.5" y="64.5" width="1135" height="263" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+  <g font-family="Georgia, Times, Times New Roman, serif">
+    <text x="96" y="222" fill="url(#ink)" font-size="82" font-weight="400" letter-spacing="-1">
+      Alderik van der Heyde
+    </text>
   </g>
 
-  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" fill="#f8fafc">
-    <text x="116" y="135" font-size="18" font-weight="650" letter-spacing="3.5" fill="#b6f0d0">NEW YORK · FLOW TRADERS</text>
-    <text x="112" y="216" font-size="64" font-weight="760">Alderik van der Heyde</text>
-    <text x="116" y="263" font-size="24" font-weight="430" fill="#d7e3ee">Web apps, automation tools, and AI-agent workflows.</text>
-  </g>
-
-  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="620">
-    <rect x="116" y="286" width="151" height="42" rx="21" fill="#ffffff" opacity="0.1"/>
-    <text x="139" y="313" fill="#eef6ff">public apps</text>
-    <rect x="283" y="286" width="178" height="42" rx="21" fill="#ffffff" opacity="0.1"/>
-    <text x="306" y="313" fill="#eef6ff">OpenClaw agent</text>
-    <rect x="477" y="286" width="161" height="42" rx="21" fill="#ffffff" opacity="0.1"/>
-    <text x="500" y="313" fill="#eef6ff">selected work</text>
-  </g>
-
-  <g opacity="0.86" fill="none" stroke-linecap="round">
-    <path d="M916 132H1106" stroke="#8dd7ff" stroke-width="5"/>
-    <path d="M862 179H1136" stroke="#b6f0d0" stroke-width="5"/>
-    <path d="M922 226H1058" stroke="#f4d58d" stroke-width="5"/>
-    <circle cx="850" cy="179" r="9" fill="#b6f0d0" stroke="none"/>
-    <circle cx="1120" cy="132" r="9" fill="#8dd7ff" stroke="none"/>
-    <circle cx="1072" cy="226" r="9" fill="#f4d58d" stroke="none"/>
+  <g fill="#17202a" opacity="0.36">
+    <circle cx="1095" cy="204" r="3"/>
+    <circle cx="1121" cy="204" r="3"/>
+    <circle cx="1147" cy="204" r="3"/>
   </g>
 </svg>
