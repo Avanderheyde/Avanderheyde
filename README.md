@@ -10,6 +10,9 @@ A web app focused on making human time and cost easier to reason about.
 
 ### Public Apps & Tools
 
+[**self-stack**](https://github.com/Avanderheyde/self-stack)  
+One binary to deploy your AI-generated apps to a VPS you own, behind Tailscale.
+
 [**resy-skill**](https://github.com/Avanderheyde/resy-skill)  
 A skill for automating and extending Resy-related workflows.
 
