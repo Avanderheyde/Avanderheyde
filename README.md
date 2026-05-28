@@ -28,4 +28,4 @@ A tracking tool for monitoring baskets, backtests, or related workflows.
 ### Built By My Agent
 
 [**agentboard**](https://github.com/not0xjarvis/agentboard)  
-A project built by my OpenClaw agent, [not0xjarvis](https://github.com/not0xjarvis).
+self-hostable linear clone built by my OpenClaw agent, [not0xjarvis](https://github.com/not0xjarvis).
