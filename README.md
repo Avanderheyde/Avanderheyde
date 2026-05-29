@@ -1,34 +1,45 @@
-## Selected Work
+I build AI-native tools, market infrastructure, and self-hosted software systems.
 
-### Web Apps
+My current focus is the software distribution layer for a world where agents can generate apps faster than humans can discover, deploy, trust, and maintain them.
 
-[**vibeleaderboard.ai**](https://vibeleaderboard.ai)  
-Leaderboard and tracking for vibe-coded products.
+## Best Places to Start
 
-[**human-cost.com**](https://human-cost.com)  
+- **SelfStack**: open-source personal app server for AI-generated/self-hosted apps
+- **VibeLeaderboard**: live discovery layer and autonomous publication experiment for AI-built apps and tools
+- **Claude Config**: my Claude Code setup for hooks, skills, commands, MCP servers, and agent workflows
+- **Resy Skill**: browser-based skill for AI agents to operate inside a real user session
+
+## Flagship Open Source
+
+[**self-stack**](https://github.com/Avanderheyde/self-stack)
+Open-source personal app server for AI-generated software. One binary to deploy, run, and privately access apps on infrastructure you own.
+
+## Live Web Apps
+
+[**vibeleaderboard.ai**](https://vibeleaderboard.ai)
+An agent-assisted publication and discovery layer for high-signal AI-built apps, tools, and builders.
+
+[**human-cost.com**](https://human-cost.com)
 A web app focused on making human time and cost easier to reason about.
 
-### Public Apps & Tools
+## AI / Agent Tools
 
-[**self-stack**](https://github.com/Avanderheyde/self-stack)  
-One binary to deploy your AI-generated apps to a VPS you own, behind Tailscale.
+[**claude-config**](https://github.com/Avanderheyde/claude-config)
+Personal Claude Code operating system: hooks, skills, slash commands, MCP servers, quality gates, and cost tracking for agentic development.
 
-[**resy-skill**](https://github.com/Avanderheyde/resy-skill)  
-A skill for automating and extending Resy-related workflows.
+[**resy-skill**](https://github.com/Avanderheyde/resy-skill)
+Browser-based Resy booking skill for AI agents, with persistent sessions, confirmation behavior, and scheduled booking workflows.
 
-[**claude-config**](https://github.com/Avanderheyde/claude-config)  
-Configuration and setup patterns for Claude-based development workflows.
+[**vibe-cost-tracker**](https://github.com/Avanderheyde/vibe-cost-tracker)
+Open-source dashboard for tracking AI coding subscriptions, hosting, SaaS costs, and project-level burn.
 
-[**vibe-cost-tracker**](https://github.com/Avanderheyde/vibe-cost-tracker)  
-A tracker for measuring and understanding the cost of vibe-coded projects.
-
-[**human-cost**](https://github.com/Avanderheyde/human-cost)  
+[**human-cost**](https://github.com/Avanderheyde/human-cost)
 Source for Human Cost.
 
-[**basket-tracker**](https://github.com/Avanderheyde/basket-tracker)  
-A tracking tool for monitoring baskets, backtests, or related workflows.
+[**basket-tracker**](https://github.com/Avanderheyde/basket-tracker)
+Experimental tracker for baskets, backtests, and related workflows.
 
-### Built By My Agent
+## Built By My Agent
 
-[**agentboard**](https://github.com/not0xjarvis/agentboard)  
-self-hostable linear clone built by my OpenClaw agent, [not0xjarvis](https://github.com/not0xjarvis).
+[**agentboard**](https://github.com/not0xjarvis/agentboard)
+A self-hostable Linear clone generated and iterated on by my OpenClaw agent, [not0xjarvis](https://github.com/not0xjarvis).
