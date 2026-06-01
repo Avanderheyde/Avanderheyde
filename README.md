@@ -1,4 +1,4 @@
-I build AI-native tools, market infrastructure, and self-hosted software systems.
+I build AI-native tools, fun one-off apps, and self-hosted software systems.
 
 My current focus is the software distribution layer for a world where agents can generate apps faster than humans can discover, deploy, trust, and maintain them.
 
