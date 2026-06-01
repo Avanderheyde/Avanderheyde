@@ -25,6 +25,10 @@ An agent-assisted publication and discovery layer for high-signal AI-built apps,
 
 A web app focused on making human time and cost easier to reason about.
 
+[**PolicyMath**](https://insurance-claims-zero-payout-site.vercel.app)
+
+Insurance vs self-insurance calculator showing invested premiums, expected paid claims, and effective ruin protection after payout friction across home, health, and other insurance lines.
+
 ## AI / Agent Tools
 
 [**claude-config**](https://github.com/Avanderheyde/claude-config)
