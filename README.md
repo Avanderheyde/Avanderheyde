@@ -7,7 +7,7 @@ My current focus is the software distribution layer for a world where agents can
 - **SelfStack**: open-source personal app server for AI-generated/self-hosted apps
 - **VibeLeaderboard**: live discovery layer and autonomous publication experiment for AI-built apps and tools
 - **Claude Config**: my Claude Code setup for hooks, skills, commands, MCP servers, and agent workflows
-- **Resy Skill**: browser-based skill for AI agents to operate inside a real user session
+- **Vibe Costs**: dashboard for vibe coders to track AI coding subscriptions, hosting, and SaaS spend
 
 ## Flagship Open Source
 
