@@ -15,6 +15,10 @@ My current focus is the software distribution layer for a world where agents can
 
 Open-source personal app server for AI-generated software. One binary to deploy, run, and privately access apps on infrastructure you own.
 
+[**selfstack-registry**](https://github.com/Avanderheyde/selfstack-registry)
+
+Open registry of apps that fit the SelfStack framework, so the SelfStack binary can discover and run them locally.
+
 ## Live Web Apps
 
 [**vibeleaderboard.ai**](https://vibeleaderboard.ai)
@@ -29,6 +33,10 @@ A web app focused on making human time and cost easier to reason about.
 
 Insurance vs self-insurance calculator showing invested premiums, expected paid claims, and effective ruin protection after payout friction across home, health, and other insurance lines.
 
+[**Vibe Costs**](https://vibecosts.app/dashboard)
+
+Dashboard for vibe coders to track AI coding subscriptions, hosting, and SaaS spend, with live API usage and project-level burn.
+
 ## AI / Agent Tools
 
 [**claude-config**](https://github.com/Avanderheyde/claude-config)
@@ -38,6 +46,14 @@ Personal Claude Code operating system: hooks, skills, slash commands, MCP server
 [**resy-skill**](https://github.com/Avanderheyde/resy-skill)
 
 Browser-based Resy booking skill for AI agents, with persistent sessions, confirmation behavior, and scheduled booking workflows.
+
+[**levelsio-vps-setup-skill**](https://github.com/Avanderheyde/levelsio-vps-setup-skill)
+
+Claude Code skill to deploy and operate a web app on a single cheap, hardened VPS the levels.io way — Hetzner/DigitalOcean + Next.js + SQLite + Caddy + systemd.
+
+[**webapp-last-90**](https://github.com/Avanderheyde/webapp-last-90)
+
+Claude Code skill for the last 90% of shipping an app: security hardening, deployment, domain setup, OG images, and the release checklist agents skip.
 
 [**vibe-cost-tracker**](https://github.com/Avanderheyde/vibe-cost-tracker)
 
@@ -50,6 +66,12 @@ Source for Human Cost.
 [**basket-tracker**](https://github.com/Avanderheyde/basket-tracker)
 
 Experimental tracker for baskets, backtests, and related workflows.
+
+## CLI & Data Tools
+
+[**acris-pp-cli**](https://github.com/Avanderheyde/acris-pp-cli)
+
+NYC ACRIS property records CLI — deeds, mortgages, parties, and full BBL history from NYC Open Data, with cross-dataset joins (bbl, debt, document, party-search).
 
 ## Built By My Agent
 
