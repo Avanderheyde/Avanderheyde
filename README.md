@@ -8,6 +8,7 @@ My current focus is the software distribution layer for a world where agents can
 - **VibeLeaderboard**: live discovery layer and autonomous publication experiment for AI-built apps and tools
 - **Claude Config**: my Claude Code setup for hooks, skills, commands, MCP servers, and agent workflows
 - **Vibe Costs**: dashboard for vibe coders to track AI coding subscriptions, hosting, and SaaS spend
+- [**levels.io VPS Setup Skill**](https://github.com/Avanderheyde/levelsio-vps-setup-skill): deploy and operate a web app on one cheap, hardened VPS with Next.js, SQLite, Caddy, and systemd
 
 ## Flagship Open Source
 
@@ -47,10 +48,6 @@ Personal Claude Code operating system: hooks, skills, slash commands, MCP server
 
 Browser-based Resy booking skill for AI agents, with persistent sessions, confirmation behavior, and scheduled booking workflows.
 
-[**levelsio-vps-setup-skill**](https://github.com/Avanderheyde/levelsio-vps-setup-skill)
-
-Claude Code skill to deploy and operate a web app on a single cheap, hardened VPS the levels.io way — Hetzner/DigitalOcean + Next.js + SQLite + Caddy + systemd.
-
 [**webapp-last-90**](https://github.com/Avanderheyde/webapp-last-90)
 
 Claude Code skill for the last 90% of shipping an app: security hardening, deployment, domain setup, OG images, and the release checklist agents skip.
@@ -68,6 +65,14 @@ Source for Human Cost.
 Experimental tracker for baskets, backtests, and related workflows.
 
 ## CLI & Data Tools
+
+[**tee-time-cli**](https://github.com/Avanderheyde/tee-time-cli)
+
+Agent-friendly golf CLI that searches and compares GolfNow, Lightspeed, and direct ForeUp inventory, watches for openings, and books with explicit confirmation.
+
+[**espn-fantasy-cli**](https://github.com/Avanderheyde/espn-fantasy-cli)
+
+Structured-JSON CLI for ESPN Fantasy football, basketball, baseball, hockey, and women's basketball — league info, standings, rosters, matchups, and activity.
 
 [**acris-pp-cli**](https://github.com/Avanderheyde/acris-pp-cli)
 
